@@ -1,0 +1,17 @@
+package con.it.pradhan.springCore;
+
+public class Airtel implements Sim{
+
+	@Override
+	public void calling() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void data() {
+		System.out.println();
+		
+	}
+
+}

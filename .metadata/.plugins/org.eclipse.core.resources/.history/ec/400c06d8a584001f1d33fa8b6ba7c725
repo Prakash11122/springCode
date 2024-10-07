@@ -1,0 +1,9 @@
+package con.it.pradhan.springCore;
+
+public interface Sim {
+	
+	public void callinf();
+	
+	public void data();
+
+}
