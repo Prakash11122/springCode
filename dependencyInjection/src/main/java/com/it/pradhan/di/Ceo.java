@@ -1,8 +1,17 @@
 package com.it.pradhan.di;
 
 public class Ceo {
-	
+	private int id;
+
 	private String ceoName;
+	
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
 
 	public String getCeoName() {
 		return ceoName;
@@ -13,7 +22,7 @@ public class Ceo {
 	}
 	
 	public void getCeoInfo() {
-		System.out.println("ceo info is: " + ceoName);
+		System.out.println("ceo info is: " + ceoName  + " and the id is: "+id);
 	}
 
 }

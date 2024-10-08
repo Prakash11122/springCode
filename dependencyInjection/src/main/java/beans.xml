@@ -8,6 +8,13 @@
 		
 		<bean id="ceo" class="com.it.pradhan.di.Ceo">
 		<property name="ceoName" value="Durga"/>
+		<property name="id" value="1"/>
 		</bean>
+		
+		<bean id="manager" class="com.it.pradhan.di.Ceo">
+		<property name="ceoName" value="prakash"/>
+		<property name="id" value="2"/>
+		</bean>
+		
 		
 </beans>
