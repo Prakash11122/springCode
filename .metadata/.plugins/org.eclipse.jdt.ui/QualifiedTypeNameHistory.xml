@@ -2,8 +2,14 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="con.it.pradhan.springCore.Sim"/>
     <fullyQualifiedTypeName name="con.it.pradhan.springCore.Airtel"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="com.it.pradhan.springCore.Sim"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.si.Ceo"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.di.Ceo"/>
+    <fullyQualifiedTypeName name="con.it.pradhan.constinjection.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="con.it.pradhan.normalInheritance.Salary"/>
+    <fullyQualifiedTypeName name="con.it.pradhan.normalInheritance.Emp"/>
 </qualifiedTypeNameHistroy>

@@ -13,7 +13,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="internal"/>
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -25,6 +25,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="con.it.pradhan.normalInheritance"/>
+			<item value="con.it.pradhan.constinjection"/>
+			<item value="con.it.pradhan.const"/>
+			<item value="con.it.pradhan.setterInjection"/>
 			<item value="con.it.pradhan.springFirstExample"/>
 			<item value="con.it.pradhan.springCore"/>
 		</list>
@@ -32,6 +36,10 @@
 			<item value="con.it.pradhan"/>
 		</list>
 		<list key="artifactId">
+			<item value="normalInheritance"/>
+			<item value="constinjection"/>
+			<item value="constructorInjection"/>
+			<item value="setterInjection"/>
 			<item value="springFirstExample"/>
 			<item value="springCore"/>
 		</list>
